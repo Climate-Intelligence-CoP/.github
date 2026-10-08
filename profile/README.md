@@ -1,7 +1,7 @@
 # Climate Intelligence CoP
 
 <p align="center">
-  <img src="../assets/climate-intelligence-cop-avatar.png" alt="Climate Intelligence CoP avatar" width="180">
+  <img src="../assets/climate-intelligence-cop-banner.png" alt="Climate Intelligence CoP banner" width="100%">
 </p>
 
 Welcome to the **Climate Intelligence Community of Practice (CoP)**.
