@@ -1,5 +1,9 @@
 # Climate Intelligence CoP
 
+<p align="center">
+  <img src="../assets/climate-intelligence-cop-avatar.png" alt="Climate Intelligence CoP avatar" width="180">
+</p>
+
 Welcome to the **Climate Intelligence Community of Practice (CoP)**.
 
 This community brings together NORCAP deployees and partners working at the intersection of climate information systems, Impact-Based Forecasting (IBF), artificial intelligence, geospatial analytics, advanced data infrastructure and humanitarian decision support.
